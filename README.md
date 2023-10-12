@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @sohampatel09
 - 🔭 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently a IT Student at SVIT, Vasad
+- 🌱 I completed my BE in IT  Engineering at SVIT, Vasad
 - 💬 Ask me about #ml #ai #python
 - 📫 To reach me mail me at sohampatel0926@gmail.com
